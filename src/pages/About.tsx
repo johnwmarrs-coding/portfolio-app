@@ -1,5 +1,5 @@
-import { Title } from '@mantine/core';
-import { Anchor, Group, Text, Flex } from '@mantine/core';
+
+import { Anchor, Group } from '@mantine/core';
 function About() {
     return (
         <div>

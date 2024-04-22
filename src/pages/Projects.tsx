@@ -1,5 +1,5 @@
-import { Title, Grid, Card, Image, Button } from '@mantine/core';
-import { Anchor, Group, Text, Flex } from '@mantine/core';
+import { Grid, Card, Image, Button } from '@mantine/core';
+import { Anchor, Text } from '@mantine/core';
 import projects_dog from '../assets/projects_dog.png';
 function Projects() {
     return (

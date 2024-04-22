@@ -1,8 +1,7 @@
-import { Title, Card, Button, Image, Badge, Grid, Timeline} from '@mantine/core';
-import { Anchor, Group, Text, Flex } from '@mantine/core';
+import {  Card, Image, Grid, Timeline} from '@mantine/core';
+import {  Text } from '@mantine/core';
 import john_square from '../assets/john_square.png'
 import Kudos from '../components/Kudos';
-import Header from '../components/Header';
 function Home() {
     return (
         <Grid ta={'left'}>

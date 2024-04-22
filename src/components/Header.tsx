@@ -1,4 +1,4 @@
-import { Anchor, Group, Text, Flex, Divider, Container } from '@mantine/core';
+import { Anchor, Group,Divider} from '@mantine/core';
 
 function Header() {
     return (
